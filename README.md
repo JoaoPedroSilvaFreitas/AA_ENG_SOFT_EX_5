@@ -1,0 +1,2 @@
+
+![diagramaClasses.png](diagramaClasses.jpg)
